@@ -1,9 +1,7 @@
 <div align="center" style="background: linear-gradient(to right, #4facfe, #00f2fe); padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">Hi 👋, I'm Shankhanil Saha</h1>
   <h3 style="color: white;">
-    I am pursuing a Bachelor's degree in Computer Science & Engineering at Dayanand Sagar College of Engineering.
-    <br>
-    I'm familiar with Python, Linux, and various distributions, and I'm passionate about Android and app development.
+   Hi there! I'm a Computer Science and Engineering student at Dayanand Sagar College of Engineering. I enjoy working with Python and exploring Linux and its various distributions. I'm also really passionate about Android development and love creating innovative apps.
   </h3>
 </div>
 
@@ -18,14 +16,14 @@
 - 💬 Ask me about **Python, Linux**
 - 📫 Reach me at **shankhanilsaha@gmail.com**
 - 📄 Check out my experiences: 
-  [View My Presentation](https://docs.google.com/presentation/d/1vsWF1PVaMZWLTOWtGw53mTFCcMoa8_a8JgCL4fgKbQ8/edit?usp=sharing)
+  [Resume](https://docs.google.com/presentation/d/1vsWF1PVaMZWLTOWtGw53mTFCcMoa8_a8JgCL4fgKbQ8/edit?usp=sharing)
 
 ---
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/shankhanilsaha" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/shankhanilsaha" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
   <a href="https://www.linkedin.com/in/shankhanil-saha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -46,4 +44,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankhanilsaha&layout=compact&theme=radical" alt="Top Languages">
   </p>
 </div>
-
