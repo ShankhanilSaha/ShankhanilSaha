@@ -30,10 +30,10 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools
-<div align="center" style="background: #f4f4f4; padding: 10px; border-radius: 10px;">
+<div align="center" style="background: #000000; padding: 10px; border-radius: 10px;">
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -41,6 +41,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankhanilsaha&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankhanilsaha&layout=compact&theme=radical&langs_count=5" alt="Top Languages" style="border: 1px solid #ff79c6; border-radius: 5px;">
   </p>
 </div>
+
+
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shankhanilsaha&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
