@@ -16,7 +16,7 @@
 - 💬 Ask me about **Python, Linux**
 - 📫 Reach me at **shankhanilsaha@gmail.com**
 - 📄 Check out my experiences: 
-  [Resume](https://drive.google.com/file/d/1xfO3AFJr6fNyU1iFC5cks7fO8Xje65Mn/view?usp=drive_link)
+  [Resume](https://drive.google.com/file/d/1Sm0NY_uD7LyZShpnWkDSCenC0AHqY-Pw/view?usp=sharing)
 
 ---
 
