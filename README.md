@@ -1,52 +1,34 @@
-<div align="center" style="background: linear-gradient(to right, #4facfe, #00f2fe); padding: 20px; border-radius: 10px;">
-  <h1 style="color: white;">Hi 👋, I'm Shankhanil Saha</h1>
-  <h3 style="color: white;">
-   Hi there! I'm a Computer Science and Engineering student at Dayanand Sagar College of Engineering. I enjoy working with Python and exploring Linux and its various distributions. I'm also really passionate about Android development and love creating innovative apps.
-  </h3>
-</div>
+<img src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="1000">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="coding gif" width="400">
-</p>
+##  About Me
+I'm a CS undergrad, aspiring to be a software developer.
+- Mobile application developer.
+- LiFT scholar 2025. 
+- CLaM team member @Oppia.
+  
+## 💻 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white) 
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+##  Holopin Badges
+[![An image of @shankhanilsaha's Holopin badges](https://holopin.me/shankhanilsaha)](https://holopin.io/@shankhanilsaha)
 
-### 🌱 About Me
-- 🌱 Currently learning **Kotlin, Flask, C++**
-- 💬 Ask me about **Python, Linux**
-- 📫 Reach me at **shankhanilsaha@gmail.com**
-- 📄 Check out my experiences: 
-  [Resume](https://drive.google.com/file/d/1DogLB7VvxW4uhXXR3qfnxTJ4c5MByQPV/view?usp=sharing)
-
----
-
-### 🌐 Connect with Me
-<p align="center">
-  <a href="https://x.com/shankhanilsaha" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+## Github Stats
+<div align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShankhanilSaha&theme=dark&hide_border=true&card_width=705" alt="" /><div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ShankhanilSaha&theme=gruvbox&no-frame=true&margin-w=15" alt="ShankhanilSaha's Trophies" />
   </a>
-  <a href="https://www.linkedin.com/in/shankhanil-saha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-
-
-### 🛠️ Languages and Tools
-<div align="center" style="background: #000000; padding: 10px; border-radius: 10px;">
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shankhanilsaha&layout=compact&theme=radical&langs_count=5" alt="Top Languages" style="border: 1px solid #ff79c6; border-radius: 5px;">
-  </p>
 </div>
-
-
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shankhanilsaha&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
