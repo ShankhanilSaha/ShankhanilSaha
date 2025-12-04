@@ -27,8 +27,4 @@ I'm a CS undergrad, aspiring to be a software developer.
 
 ## Github Stats
 <div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShankhanilSaha&theme=dark&hide_border=true&card_width=705" alt="" /><div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ShankhanilSaha&theme=gruvbox&no-frame=true&margin-w=15" alt="ShankhanilSaha's Trophies" />
-  </a>
-</div>
+<img src="https://nirzak-streak-stats.vercel.app/?user=ShankhanilSaha&theme=dark&hide_border=true&card_width=705" alt="" />
