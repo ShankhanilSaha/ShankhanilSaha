@@ -24,7 +24,3 @@ I'm a CS undergrad, aspiring to be a software developer.
 
 ##  Holopin Badges
 [![An image of @shankhanilsaha's Holopin badges](https://holopin.me/shankhanilsaha)](https://holopin.io/@shankhanilsaha)
-
-## Github Stats
-<div align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=ShankhanilSaha&theme=dark&hide_border=true&card_width=705" alt="" />
